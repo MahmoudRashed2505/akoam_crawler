@@ -1,0 +1,5 @@
+requests
+selenium
+wget
+scrapy
+bs4
